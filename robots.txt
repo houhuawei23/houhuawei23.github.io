@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://houhuawi23.github.io/sitemap.xml
+Sitemap: https://houhuawei23.github.io/sitemap.xml
