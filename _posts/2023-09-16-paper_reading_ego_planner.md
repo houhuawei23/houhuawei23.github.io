@@ -75,7 +75,7 @@ $$
         %}
 </div>
 <div class="caption">
-Input mask and two visualizations of the resulting SDF
+Input mask and two visualizations of the resulting SDF. <d-cite key="distance_fields_blog"></d-cite>
 </div>
 
 `距离场(Distance Field)`是图形学中的一个重要概念，是一个与物体表面距离的标量函数。对于二维或者三维空间中的一个闭合曲面S，距离场d(x)定义为从空间中任意一点x到曲面S的最近距离。
